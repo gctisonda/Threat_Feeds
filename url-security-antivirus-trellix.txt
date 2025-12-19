@@ -1,0 +1,9 @@
+ah-usw001.manage.trellix.com
+dxl-usw001.manage.trellix.com
+iam.mcafee-cloud.com
+uam.mcafee-cloud.com
+uam.api.trellix.com
+cds-usw001.manage.trellix.com
+d2c-us-west-2.manage.trellix.com
+prod-epo-usw001-pub-alb-1014692618.us-west-2.elb.amazonaws.com
+ah-usw001.mvision.mcafee.com

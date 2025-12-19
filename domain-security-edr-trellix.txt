@@ -1,0 +1,7 @@
+ui.soc.trellix.com
+api.soc.trellix.com
+tie.gti.trellix.com
+tieserver.rest.gti.trellix.com
+api.soc.trellix.com
+prod-epo-usw001-pub-alb-1014692618.us-west-2.elb.amazonaws.com
+https://ah-usw001.mvision.mcafee.com

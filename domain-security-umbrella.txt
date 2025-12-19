@@ -1,0 +1,5 @@
+api.opendns.com
+disthost.umbrella.com
+ocsp.digicert.com
+crl3.digicert.com
+crl4.digicert.com
