@@ -44,3 +44,6 @@ chromus.icu
 statementsonlineviewer.com
 go-envitelabel.com
 opalcatacomb.pro
+https://212.80.7.74/stager/ps1
+https://212.80.7.74/stager/mini
+https://212.80.7.74/serverscan.ps1
