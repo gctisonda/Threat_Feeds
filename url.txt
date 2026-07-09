@@ -47,3 +47,7 @@ opalcatacomb.pro
 https://212.80.7.74/stager/ps1
 https://212.80.7.74/stager/mini
 https://212.80.7.74/serverscan.ps1
+blinks.appsmith.com
+assets.appsmith.com
+nadadouro.bar
+appsmith.com
